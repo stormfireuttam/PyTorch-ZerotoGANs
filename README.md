@@ -1,6 +1,6 @@
 # PyTorch-ZerotoGANs
 PyTorch Tutorial for Deep Learning
-<p align="center"><img width="40%" src="logo/pytorch_logo_2018.svg" /></p>
+<p align="center"><img width="40%" src="logo.png" /></p>
 
 --------------------------------------------------------------------------------
 
