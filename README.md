@@ -37,14 +37,6 @@ This repository provides tutorial code for deep learning researchers to learn [P
 
 <br/>
 
-## Getting Started
-```bash
-$ git clone https://github.com/yunjey/pytorch-tutorial.git
-$ cd pytorch-tutorial/tutorials/PATH_TO_PROJECT
-$ python main.py
-```
-
-<br/>
 
 ## Dependencies
 * [Python 2.7 or 3.5+](https://www.continuum.io/downloads)
