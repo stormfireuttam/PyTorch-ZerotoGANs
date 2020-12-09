@@ -11,7 +11,7 @@ This repository provides tutorial code for deep learning researchers to learn [P
 ## Table of Contents
 
 #### 1. Basics
-* [PyTorch Basics]()
+* [PyTorch Basics](PyTorch%20Basics/Pytorch_basics.py)
 * [Linear Regression]()
 * [Logistic Regression]()
 * [Feedforward Neural Network]()
